@@ -27,7 +27,7 @@
 
 I'm a **Junior AI Engineer** and Data Science graduate passionate about building intelligent applications that solve real-world problems.
 
-Currently working at **Coroven AI**, where I develop and experiment with LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and multi-agent workflows.
+I develop and experiment with LLM-powered applications, Retrieval-Augmented Generation (RAG) pipelines, and multi-agent workflows.
 
 My engineering interests revolve around:
 
