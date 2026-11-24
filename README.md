@@ -1,7 +1,7 @@
  
 <div align="center">
 
-# Saud Ijaz
+#Saud Ijaz
 
 ### Junior AI Engineer | LLM Engineer | Data Science Graduate
 
